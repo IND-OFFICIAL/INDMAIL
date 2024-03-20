@@ -101,7 +101,7 @@ const Home = () => {
               flexDirection: "column",
             }}
           >
-            <h3>Flexmail</h3>
+            <h3>INDMAIL</h3>
             <h5>A customizable temporary email generator</h5>
             <div style={{ marginBottom: "80px", marginTop: "10px" }}>
               <GitHubButton
