@@ -7,7 +7,7 @@ const Error = () => {
     <div style={{ height: "80vh" }}>
       <div
         style={{
-          display: "flex",
+          display: "IND",
           alignItems: "center",
           justifyContent: "center",
           flexDirection: "column",
