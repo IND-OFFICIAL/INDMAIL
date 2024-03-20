@@ -23,7 +23,7 @@ const About = () => {
           <a
             style={{ textDecoration: "none", color: "red" }}
             target="_blank"
-            href="https://github.com/sambhavsaxena"
+            href="https://github.com/vinayakkumar9000" 
             rel="noreferrer"
           >
             here
