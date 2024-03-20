@@ -7,7 +7,6 @@ Welcome to **INDMAIL**, the ultimate solution for managing temporary email addre
 - **Instant Email Addresses**: Generate a temporary email address in seconds. No sign-ups, no hassle. 💌
 - **Clean & Intuitive UI**: Our minimalist design ensures you find exactly what you need, right when you need it. 💡
 - **Advanced Spam Protection**: protect your inbox clean with our robust email technology. 🛡️
--
 - **Privacy Guaranteed**: We value your privacy. Use our service without providing personal information. 🔒
 - **Multi-Language Support**: Accessible to users worldwide, supporting multiple languages. 🌐
 
