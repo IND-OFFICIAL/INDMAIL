@@ -1,7 +1,7 @@
 {
-  "name": "flexmail",
-  "version": "1.1.0",
-  "author": "Sambhav Saxena",
+  "name": "INDMAIL",
+  "version": "1",
+  "author": "TEAM IND🇮🇳",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.1",
