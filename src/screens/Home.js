@@ -105,15 +105,15 @@ const Home = () => {
             <h5>A customizable temporary email generator</h5>
             <div style={{ marginBottom: "80px", marginTop: "10px" }}>
               <GitHubButton
-                href="https://github.com/sambhavsaxena/flexmail"
+                href="https://github.com/vinayakkumar9000"
                 data-icon="octicon-star"
                 data-show-count="true"
-                aria-label="Star sambhavsaxena/flexmail on GitHub"
+                aria-label="Star INATAKKUMAR9000/IND-MAIL on GitHub"
               >
                 Star
               </GitHubButton>{" "}
               <GitHubButton
-                href="https://github.com/sambhavsaxena/flexmail/fork"
+                href="https://github.com/vinayakkumar9000"
                 data-icon="octicon-repo-forked"
                 data-show-count="true"
                 aria-label="Fork sambhavsaxena/flexmail on GitHub"
