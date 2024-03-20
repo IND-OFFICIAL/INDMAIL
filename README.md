@@ -30,14 +30,14 @@ Your feedback and contributions are welcome! If you have any suggestions or want
 
 ## Support & Feedback 📢
 
-Encountered a bug? Have an idea for improvement? We'd love to hear from you! Please reach out to us via our [support page](#).
+Encountered a bug? Have an idea for improvement? We'd love to hear from you! Please reach out to us via Github
 
 ## Stay Connected 🌍
 
 Join our community and stay up-to-date with the latest from INDMAIL:
 
-- Follow us on [Social Media](#)
-- Subscribe to our [Newsletter](#)
+- Follow us on telegram[soon...](#)
+- Subscribe to our Newslater[soon...](#)
 
 ---
 
