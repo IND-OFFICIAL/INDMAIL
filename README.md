@@ -1,4 +1,4 @@
-# 📫 INDMAIL - Your Secure Temporary Email Provider
+# 📫 INDMAIL ~~ TEAM IND 🇮🇳
 
 Welcome to **INDMAIL**, the ultimate solution for managing temporary email addresses with a focus on privacy, security, and a user-friendly experience. 🌟 Say goodbye to spam and protect your personal information with our sleek, easy-to-use interface.
 
