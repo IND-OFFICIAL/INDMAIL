@@ -116,7 +116,7 @@ const Home = () => {
                 href="https://github.com/vinayakkumar9000"
                 data-icon="octicon-repo-forked"
                 data-show-count="true"
-                aria-label="Fork sambhavsaxena/flexmail on GitHub"
+                aria-label="Fork VINAYAKKUMAR9000/IND-MAIL on GitHub"
               >
                 Fork
               </GitHubButton>
