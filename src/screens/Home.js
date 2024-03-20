@@ -108,7 +108,7 @@ const Home = () => {
                 href="https://github.com/vinayakkumar9000"
                 data-icon="octicon-star"
                 data-show-count="true"
-                aria-label="Star INATAKKUMAR9000/IND-MAIL on GitHub"
+                aria-label="Star VINAYAKKUMAR9000/IND-MAIL on GitHub"
               >
                 Star
               </GitHubButton>{" "}
