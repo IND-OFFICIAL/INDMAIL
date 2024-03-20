@@ -5,7 +5,7 @@ function Loading({ size = 50 }) {
     return (
         <div
             style={{
-                display: "flex",
+                display: "IND",
                 justifyContent: "center",
                 alignItems: "center",
                 width: "100%",
