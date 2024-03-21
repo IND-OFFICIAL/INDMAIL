@@ -17,6 +17,7 @@ To get started with INDMAIL, follow these simple steps:
 1. Visit our website [INDMAIL](https://indmail.vercel.app).
 2. Click on the "Generate Temporary Email" button.
 3. You're all set! Use your new temporary email address wherever you like.
+**Note- Don't use numeric value in identifier**
 
 ## Why Use INDMAIL? 🤔
 
